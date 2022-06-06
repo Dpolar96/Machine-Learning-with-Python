@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This is an individual machine learning project in which the goal was to determine whether a Game of Thrones character was alive based on certain characteristics, such as their noble status, culture, whether they are married or their parents are alive among other characteristics. This project included also data imputation to fill in missing values as well feature engineering over some other characteristics based on the data.
+This is an individual machine learning project in which the goal was to determine whether the wight of newborn babies and selecting the best model for determining it. This model also includes data imputation for missing values and the criteria for selecting the final model is the Training Score, Testing Score, and the gap between both. 
 
 ### Built With
 
@@ -120,7 +120,7 @@ In case these packages are not installed, please run the following lines of code
 
 Diego Polar - dpolar76@gmail.com
 
-Project Link: [https://github.com/Dpolar96/Classification-model-with-Python](https://github.com/Dpolar96/Regression-model-with-Python)
+Project Link: [https://github.com/Dpolar96/Regression-model-with-Python](https://github.com/Dpolar96/Regression-model-with-Python)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
