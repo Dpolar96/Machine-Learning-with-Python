@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This is an individual machine learning project in which the goal was to determine whether the wight of newborn babies and selecting the best model for determining it. This model also includes data imputation for missing values and the criteria for selecting the final model is the Training Score, Testing Score, and the gap between both. 
+This is an individual machine learning project in which the goal was to determine whether the weight of newborn babies and selecting the best model for determining it. This model also includes data imputation for missing values and the criteria for selecting the final model is the Training Score, Testing Score, and the gap between both. 
 
 ### Built With
 
